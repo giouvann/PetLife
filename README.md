@@ -13,8 +13,7 @@ Projeto de um site para uma clínica veterinária desenvolvido com HTML, CSS e J
 
 ---
 
-##  Estrutura do projeto
-bash 
+##  Estrutura do projeto 
 ```
 ├── index.html # Página principal
 ├── index.css # Estilos da aplicação
