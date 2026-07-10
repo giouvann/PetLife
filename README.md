@@ -1,6 +1,6 @@
 #  PetLife
 
-Um site desenvolvido para treinar **HTML, CSS e JavaScript** com foco em estrutura, estilo e interatividade simples.
+Projeto de um site para uma clínica veterinária desenvolvido com HTML, CSS e JavaScript, com o objetivo de aplicar conceitos de estruturação de páginas, estilização responsiva e interatividade no front-end.
 
 ---
 
@@ -14,13 +14,14 @@ Um site desenvolvido para treinar **HTML, CSS e JavaScript** com foco em estrutu
 ---
 
 ##  Estrutura do projeto
-/
+bash 
+```
 ├── index.html # Página principal
 ├── index.css # Estilos da aplicação
 ├── index.js # Scripts de interação
 ├── img/ # Imagens e ícones
 └── README.md # Documentação
-
+```
 
 ---
 
@@ -34,7 +35,7 @@ Um site desenvolvido para treinar **HTML, CSS e JavaScript** com foco em estrutu
 
 ##  Screenshots
 ### Página inicial
-> <img width="1354" height="673" alt="tela-inicial-petlife" src="https://github.com/user-attachments/assets/65794322-2c45-4496-89c8-e9ca51f8d34d" />
+<img width="1354" height="673" alt="tela-inicial-petlife" src="https://github.com/user-attachments/assets/65794322-2c45-4496-89c8-e9ca51f8d34d" />
 
 ### Cuidado Veterinário
 <img width="1335" height="673" alt="cuidado-veterinario-petlife" src="https://github.com/user-attachments/assets/48caad95-955e-4a70-bca3-42735d7bee64" />
